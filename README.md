@@ -72,11 +72,11 @@
 ## About The Project
 
 
-    Our teacher asked us to make any kind of system using C language.<br>
-    So, me and my groupmates have come up with an idea to make an E-Canteen system for the school.<br>
-    With sufficient knowledge on C language and brainstorming we created our first project.<br>
-    We call it "Food Web E-Canteen System"<br>
-    This system is inspired by Food Ordering System in which you can place your orders without going outside.<br>
+    Our teacher asked us to make any kind of system using C language.
+    So, me and my groupmates have come up with an idea to make an E-Canteen system for the school.
+    With sufficient knowledge on C language and brainstorming we created our first project.
+    We call it "Food Web E-Canteen System"
+    This system is inspired by Food Ordering System in which you can place your orders without going outside.
     For us, this is quite useful for students and teachers in the campus.
 
 
