@@ -116,7 +116,7 @@ For the Food Web webiste my classmate made a separate repository on his github a
 👇 The link is provided below:  <br>
 <a href="https://github.com/UrLostBoy/Food-Web-Website"><b>FOOD WEB (WEBSITE)</b></a> <br>
 <hr>
-You follow me here on github.
+You can follow me here on github.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
