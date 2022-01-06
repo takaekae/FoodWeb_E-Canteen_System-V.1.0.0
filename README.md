@@ -75,10 +75,10 @@
     Our teacher asked us to make any kind of system using C language.<br>
     So, me and my groupmates have come up with an idea to make an E-Canteen system for the school.<br>
     With sufficient knowledge on C language and brainstorming we created our first project.<br>
-    We call it <b>"Food Web E-Canteen System"</b><br>
+    We call it "Food Web E-Canteen System"<br>
     This system is inspired by Food Ordering System in which you can place your orders without going outside.<br>
     For us, this is quite useful for students and teachers in the campus.
-    <hr>
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
