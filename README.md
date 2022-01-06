@@ -114,7 +114,7 @@ Don't forget to give the project a star! Thanks again!
 <br>
 Project Link: https://github.com/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0
 <br>
-For the Food Web webiste my classmate made a separate repository on his github account:
+For the Food Web webiste my classmate made a separate repository on his github account. <br>
 👇 The link is provided below:  <br>
 <a href="https://github.com/UrLostBoy/Food-Web-Website"><b>FOOD WEB (WEBSITE)</b></a> <br>
 <hr>
