@@ -129,7 +129,7 @@ You can follow me here on github.
 [forks-shield]: https://img.shields.io/github/forks/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0.svg?style=for-the-badge
 [forks-url]: https://github.com/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0/network/members
 [stars-shield]: https://img.shields.io/github/stars/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0.svg?style=for-the-badge
-[stars-url]: https://github.com//Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0/stargazers
+[stars-url]: https://github.com/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0.svg?style=for-the-badge
-[issues-url]: https://github.com//Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0/issues
+[issues-url]: https://github.com/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0/issues
 
