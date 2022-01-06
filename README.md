@@ -80,8 +80,6 @@
     For us, this is quite useful for students and teachers in the campus.
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
