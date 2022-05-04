@@ -27,13 +27,13 @@
 <br />
 <div align="center">
   <a href="https://foodweb.me/">
-    <img src="https://i.ibb.co/YkgcKsz/Asset-3.png" alt="Logo" width="100" height="120">
+    <img src="https://i.ibb.co/G9x0RZX/sivcs.png" alt="Logo" width="100" height="120">
   </a>
 
-  <h2 align="center"><b>Food Web E-Canteen System</b></h2>
+  <h2 align="center"><b>Student Information System with Vaccination Card Status</b></h2>
 
   <p align="center">
-    Your E-Canteen that is convenient and accessible wherever you are in the campus.  
+    The Best for students to enter the school campus efficiency using their QRCODE.  
     <hr>
     <b>You can download our powerpoint presentation just click "View PPT"<b><br>
    
@@ -41,11 +41,11 @@
     <a href="https://github.com/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.mediafire.com/file/855xbm9sqgdr5j3/FOOD_WEB.pptx/file">View PPT</a>
+    <a href="#">View PPT</a>
     ·
-    <a href="https://github.com/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0/issues">Report Bug</a>
+    <a href="https://github.com/Kiyo-18/Student_Information_System_with_Vaccination_Card-_Status-V.2.1.0/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0/issues">Request Feature</a>
+    <a href="https://github.com/Kiyo-18/Student_Information_System_with_Vaccination_Card-_Status-V.2.1.0/issues">Request Feature</a>
   </p>
 </div>
 
@@ -69,12 +69,10 @@
 ## About The Project
 
 
-    Our teacher asked us to make any kind of system using C language.
-    So, me and my groupmates have come up with an idea to make an E-Canteen system for the school.
-    With sufficient knowledge on C language and brainstorming we created our first project.
-    We call it "Food Web E-Canteen System"
-    This system is inspired by Food Ordering System in which you can place your orders without going outside.
-    For us, this is quite useful for students and teachers in the campus.
+    Our teacher asked us to make any kind of system using Python language.
+    So I made up my mind to make this System called "Student Information System with Vaccination Card Status.
+    This system is inspired by Safe Ormoc Qrcose in which you can enter as a student of Eastern Visayas State University, with effieciecy using QR Code.
+    For us, this is quite useful for students and teachers in the campus in order to avoid intruder and much less hassle writing on a logbook.
 
 
 <!-- CONTRIBUTING -->
@@ -98,16 +96,16 @@ Don't forget to give the project a star! Thanks again!
 <b> John Lloyd de Sape</b><br>
 <br>
 <a href="https://www.instagram.com/kiyo_ayanokoji/" rel="nofollow">
-  <img align="left" alt="Vin Monreal - Instagram" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width: 100%;">
+  <img align="left" alt="Kiyo Ayanokouji - Instagram" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width: 100%;">
 </a>
 <a href="hhttps://twitter.com/Kiyo_Ayanokoji?t=NYE49vknhK_gFu4rpptunQ&s=07" rel="nofollow">
-  <img align="left" alt="Vin Monreal - Twitter" width="22px" src="https://camo.githubusercontent.com/055d96e8404ce2ab1dd0af5f1c2030d242309a5bc69e47ff32e0b2ab73307e1e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f73636f2f392f39662f547769747465725f626972645f6c6f676f5f323031322e737667" data-canonical-src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" style="max-width: 100%;">
+  <img align="left" alt="Kiyo Ayanokouji - Twitter" width="22px" src="https://camo.githubusercontent.com/055d96e8404ce2ab1dd0af5f1c2030d242309a5bc69e47ff32e0b2ab73307e1e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f73636f2f392f39662f547769747465725f626972645f6c6f676f5f323031322e737667" data-canonical-src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" style="max-width: 100%;">
 </a>
 <a href="https://www.facebook.com/GodsNotD3ad" rel="nofollow">
-  <img align="left" alt="Vin Monreal - Facebook" width="22px" src="https://camo.githubusercontent.com/013ab4b8c0a14af1d626b6106c10a4ca83129f9b89d063db25612dcb88740bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width: 100%;">
+  <img align="left" alt="Kiyo Ayanokouji - Facebook" width="22px" src="https://camo.githubusercontent.com/013ab4b8c0a14af1d626b6106c10a4ca83129f9b89d063db25612dcb88740bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width: 100%;">
 </a><br>
 <br>
-Project Link: https://github.com/Kiyo-18/FoodWeb_E-Canteen_System-V.1.0.0
+Project Link: https://github.com/Kiyo-18/Student_Information_System_with_Vaccination_Card-_Status-V.2.1.0
 <br>
 For the Food Web webiste my classmate made a separate repository on his github account. <br>
 👇 The link is provided below:  <br>
